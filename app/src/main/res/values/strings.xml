@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableCardView</string>
+    <string name="cardio_and_core">Cardio and Core</string>
+    <string name="_30_seconds_with_30_seconds_of_rest">30 seconds with 30 seconds of rest</string>
+</resources>
